@@ -33,3 +33,12 @@ So far, here is a list of the recipes that I've assembled:
 [Really Quick Chikkin]()
 
 [Bananas Foster]()
+
+
+# Sclog topics:
+
+[Flambé and its dangers]()
+
+[Bubble, Bubble yeast isn't trouble!]()
+
+
