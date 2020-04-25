@@ -22,7 +22,7 @@ So far, here is a list of the recipes that I've assembled:
 
 [Bread](https://github.com/disulfidebond/scienceyfood/blob/master/Recipes/Bread.md)
 
-[Beer Bread]()
+[Beer Bread](https://github.com/disulfidebond/scienceyfood/blob/master/Recipes/BeerBread.md)
 
 [Catfish Almondine]()
 
