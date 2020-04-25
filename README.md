@@ -8,6 +8,10 @@ This repository is here to help! It has recipes for entrees, dishes, and dessert
 
 In addition, The Science Blog section has a commentary about the science in the chemical reactions in several dishes.
 
+Important Disclaimer:
+Always be safe and responsible in the kitchen, and always heed all warnings and cautions that are in any of these recipes. 
+Similar to the MIT license, you are free to use these recipes however you wish, and no warranty or responsibility 
+
 
 Each recipe is formatted as follows:
 
@@ -40,5 +44,23 @@ So far, here is a list of the recipes that I've assembled:
 [Flambé and its dangers]()
 
 [Bubble, Bubble yeast isn't trouble!]()
+
+
+# Important Legal Stuff
+
+The work in this repository is covered under a Creative Commons 4.0 Attributed License.
+
+PLEASE BE RESPONSIBLE AND SAFE IN THE KITCHEN.
+
+USE AT YOUR OWN RISK. THE RECIPES ARE PROVIDED "AS IS", WITHOUT WARRANTY OR LIABILITY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY DAMAGES TO THE TASTE BUDS OR PALATE.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE USE OF THESE RECIPES, ANY ACTIONS IN THE KITCHEN,
+COOKING ACTIONS OF ANY KIND, OR OTHER ACTIONS OF ANY KIND.
 
 
