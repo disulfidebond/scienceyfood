@@ -27,3 +27,5 @@ You can use less garlic if you want.
 3. Melt butter, and mix in parsley and garlic. Then squeeze lemon juice into butter mix and add almonds and Cajun seasoning (remove lemon seeds prior to squeezing), and immediately add to the top of the catfish filets on the cookie sheet.
 
 Bake for 15 minutes or until fish flakes with a fork. 
+
+![](https://github.com/disulfidebond/scienceyfood/blob/master/Images/IMG_6160.jpg)
