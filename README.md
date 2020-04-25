@@ -20,7 +20,7 @@ Steps: The actual steps to cook or bake.
 # Current recipes
 So far, here is a list of the recipes that I've assembled:
 
-[Bread](https://github.com/disulfidebond/hungry_scientist/blob/master/Bread.md)
+[Bread](https://github.com/disulfidebond/scienceyfood/blob/master/Recipes/Bread.md)
 
 [Beer Bread]()
 
