@@ -3,7 +3,7 @@
 ## Introduction
 Bananas Foster was created by [Ralph Brennan](https://www.brennansneworleans.com/recipes/bananas-foster/) in New Orleans, as was reportedly one of his favorite desserts. This recipe is derived from his, and full credit goes to Brennan for the creation of it.
 
-You should use ripe but not overly ripe bananas (see my sclog entry [Going Bananas!]()).
+You should use ripe but not overly ripe bananas (see my sclog entry [Going Bananas!](https://github.com/disulfidebond/scienceyfood/blob/master/Sclog/Going_bananas.md)).
 
 [Flambéing a dish](https://en.wikipedia.org/wiki/Flambé) is very dangerous, even for a veteran chef, and although it is impressive, you should **NOT LIGHT THE DISH ON FIRE**.  I'm really serious. 
 
