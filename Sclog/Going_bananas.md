@@ -12,7 +12,7 @@ If you are making banana bread, you want very ripe or over ripe bananas, because
 #### Here's an unripe banana that needs more time to ripen
 ![unripe banana](https://github.com/disulfidebond/scienceyfood/blob/master/Images/IMG_5585.jpg)
 
-#### Here are some ripe banana that are perfect for Bananas Foster
+#### Here are some ripe bananas that are perfect for Bananas Foster
 ![ripe banana, perfect for Bananas Foster](https://github.com/disulfidebond/scienceyfood/blob/master/Images/IMG_7867.jpg)
 
 #### Here are some very ripe bananas that are great for Banana Bread, and okay for Bananas Foster
