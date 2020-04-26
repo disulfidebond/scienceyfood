@@ -36,6 +36,8 @@ So far, here is a list of the recipes that I've assembled:
 
 [Bubble, Bubble yeast isn't trouble!](https://github.com/disulfidebond/scienceyfood/tree/master/Sclog)
 
+[Going Bananas!](https://github.com/disulfidebond/scienceyfood/blob/master/Sclog/Going_bananas.md)
+
 
 # Important Legal Stuff
 
