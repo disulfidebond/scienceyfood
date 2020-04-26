@@ -9,7 +9,7 @@ The flash point of a substance is the temperature at which it will ignite if exp
 #### 80 proof vodka in a pan after a match was held near it
 ![](https://github.com/disulfidebond/scienceyfood/blob/master/Images/IMG_0585.jpg)
 
-If you're thinking "fire isn't so bad", please stop reading immediately and stay out of all kitchens.
+If you're thinking "fire isn't so bad", please stay out of all kitchens.
 
 A pan that has something actively burning is very difficult to control. There's heat coming from below, inside, and on top of the pan, and the flames can readily ignite other surfaces. If liquid inside a pan is on fire, there's the added hazard that the fire is actively sloshing around. One of the reasons the Bananas Foster recipe specifically says not to use Bacardi 151 is that 151-proof liquor will ignite at room temperature, and will literally create a fireball if it is heated and then exposed to an ignition source like a spark or flame. The other reason is that the alcohol taste will tend to overpower the dish.
 
