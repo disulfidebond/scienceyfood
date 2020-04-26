@@ -28,22 +28,16 @@ So far, here is a list of the recipes that I've assembled:
 
 [Beer Bread](https://github.com/disulfidebond/scienceyfood/blob/master/Recipes/BeerBread.md)
 
-[Catfish Almondine]()
+[Catfish Almondine](https://github.com/disulfidebond/scienceyfood/blob/master/Recipes/CatfishAlmondine.md)
 
-[Cinnamon Rolls]()
-
-[Quick Chikkin]()
-
-[Really Quick Chikkin]()
-
-[Bananas Foster]()
+[Bananas Foster](https://github.com/disulfidebond/scienceyfood/blob/master/Recipes/BananasFoster.md)
 
 
 # Sclog topics:
 
 [Flambé and its dangers]()
 
-[Bubble, Bubble yeast isn't trouble!]()
+[Bubble, Bubble yeast isn't trouble!](https://github.com/disulfidebond/scienceyfood/tree/master/Sclog)
 
 
 # Important Legal Stuff
