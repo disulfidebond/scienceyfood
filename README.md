@@ -6,7 +6,7 @@ Then, the inevitable happens.  You get hungry. Your pantry is stocked with essen
 
 This repository is here to help! It has recipes for entrees, dishes, and desserts that have been simplified to 3 simple steps. It's focused on using commonly available ingredients, and it provides annotations and comments for how to substitute ingredients that may be missing. Each recipe also has a section on the chemistry behind the baking and cooking for the curious, and a commentary on how you can experiment on your own. In recipes that are derived from others, credit is added to the original creators.
 
-In addition, The Science Blog section has a commentary about the science in the chemical reactions in several dishes.
+In addition,the Science Blog ("sclog", yes I need a better name...) section has a commentary about the science in the chemical reactions of several dishes.
 
 Always be safe and responsible in the kitchen, and always heed all warnings and cautions that are in any of these recipes. 
 
