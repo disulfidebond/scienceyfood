@@ -7,7 +7,7 @@ You should use ripe but not overly ripe bananas (see my sclog entry [Going Banan
 
 [Flambéing a dish](https://en.wikipedia.org/wiki/Flambé) is very dangerous, even for a veteran chef, and although it is impressive, you should **NOT LIGHT THE DISH ON FIRE**.  I'm really serious. 
 
-For an interesting commentary about why you should **NOT LIGHT THE DISH ON FIRE**, read my sclog entry [Flambé means Fire!]()
+For an interesting commentary about why you should **NOT LIGHT THE DISH ON FIRE**, read my sclog entry [Flambé means Fire!](https://github.com/disulfidebond/scienceyfood/blob/master/Sclog/Flambe_means_Fire.md)
 
 Finally, the dish will contain some alcohol after preparation is complete, even if the dish catches fire, which would be bad and you should avoid at all costs. There wouldn't be enough alcohol to make you drunk, but it is conceivable that your blood alcohol level could raise a bit after enjoying the dish.
 
