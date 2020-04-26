@@ -28,3 +28,5 @@ Any dark rum will work, but you should not use rum that is higher than 100 proof
 1. Combine butter, brown sugar, and cinnamon in saucepan on medium heat. 
 2. Add the rum and liquor after the butter melts, stirring constantly. Then carefully add the bananas, continuing to stir.
 3. When the bananas are softened (about 1 minute of cooking), the dish is done. Immediately serve over ice cream and enjoy!
+
+![](https://github.com/disulfidebond/scienceyfood/blob/master/Images/IMG_7938.jpg)
