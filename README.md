@@ -4,7 +4,7 @@ We've all been there, or are there now. It's the pandemic, grocery stores are ru
 
 Then, the inevitable happens.  You get hungry. Your pantry is stocked with essentials like beer and liquor, but how do you turn foodlike items like flour and sugar into tasty bread for that all-imporant PB&J? 
 
-This repository is here to help! It has recipes for entrees, dishes, and desserts that have been simplified to 3 simple steps. It's focused on using commonly available ingredients, and it provides annotations and comments for how to substitute ingredients that may be missing. Each recipe also has a section on the chemistry behind the baking and cooking for the curious, and a commentary on how you can experiment on your own. In recipes that are derived from others, credit is added to the original creators.
+This repository is here to help! It has recipes for entrees, dishes, and desserts that have been simplified to 3 simple steps. It's focused on using commonly available ingredients, and it provides annotations and comments for how to substitute ingredients that may be missing. In recipes that are derived from others, credit has been added to the original creators.
 
 In addition,the Science Blog ("sclog", yes I need a better name...) section has a commentary about the science in the chemical reactions of several dishes.
 
