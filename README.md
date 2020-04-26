@@ -8,10 +8,7 @@ This repository is here to help! It has recipes for entrees, dishes, and dessert
 
 In addition, The Science Blog section has a commentary about the science in the chemical reactions in several dishes.
 
-Important Disclaimer:
 Always be safe and responsible in the kitchen, and always heed all warnings and cautions that are in any of these recipes. 
-Similar to the MIT license, you are free to use these recipes however you wish, and no warranty or responsibility 
-
 
 Each recipe is formatted as follows:
 
